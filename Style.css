@@ -1,8 +1,9 @@
 h2{ 
-color:rgb(40, 18, 236);
-font-family: Arial, Helvetica, sans-serif ;
-font-size: 23pt ;
-}
+    color:rgb(40, 18, 236);
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 23pt ;
+    }
+    
 
 .myinfo { 
     color:blue;
@@ -25,7 +26,7 @@ img{
     }
 
  h1 { 
-        background-color: aqua;
+        background-color: rgb(120, 239, 255);
         border-radius: 10px;
         color:black;
         padding-top: 10px;
@@ -34,7 +35,7 @@ img{
 
 body {
 
-    background-color: rgb(255, 127, 244);
+    background-color: rgb(255, 213, 252);
 }
 
 h3{ 
